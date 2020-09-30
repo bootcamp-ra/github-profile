@@ -1,0 +1,26 @@
+{
+  "name": "github-profile",
+  "version": "1.0.0",
+  "description": "Seu desafio vai ser construir uma página que se comunica diretamente com o GitHub!",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootcamp-ra/github-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bootcamp-ra/github-profile/issues"
+  },
+  "homepage": "https://github.com/bootcamp-ra/github-profile#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
